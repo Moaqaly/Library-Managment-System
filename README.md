@@ -41,10 +41,6 @@ A desktop application built with Java and Swing to manage a library's day-to-day
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots here of login screen, book table, issue/return interface, etc._
-
 ---
 
 ## 🚀 How to Run
